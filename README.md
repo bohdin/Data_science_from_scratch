@@ -4,8 +4,8 @@ The goal is to better understand how data science tools work internally by build
 
 ## Project Scructure
 
-- [`chapter_1.py`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Introduction
-- [`chapter_2.py`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Visualization
-- [`chapter_3.py`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Linear algebra
-- [`chapter_4.py`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Statistics
-- [`chapter_5.py`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Probability
+- (https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Introduction
+- (https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Visualization
+- (https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Linear algebra
+- (https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Statistics
+- (https://github.com/bohdin/Data_science_from_scratch/blob/main/Introduction.ipynb) - Probability
