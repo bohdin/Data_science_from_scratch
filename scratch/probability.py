@@ -1,4 +1,4 @@
-import enum, random, math
+import random, math
 import matplotlib.pyplot as plt
 from collections import Counter
 
