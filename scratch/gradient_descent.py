@@ -1,7 +1,9 @@
 from typing import Callable, TypeVar, List, Iterator
-from linear_algebra import Vector, distance, add, scalar_multiply, vector_mean
+from linear_algebra import Vector, add, scalar_multiply
 import matplotlib.pyplot as plt
 import random
+
+T = TypeVar('T')
 
 def difference_qoutient(f: Callable[[float], float], x: float, h: float) -> float:
     return (f(x + h) - f(x)) / h
