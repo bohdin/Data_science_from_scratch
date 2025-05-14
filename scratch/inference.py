@@ -1,6 +1,6 @@
 from typing import Tuple
 import math
-from scratch.probability import normal_cdf, inverse_normal_cdf
+from probability import normal_cdf, inverse_normal_cdf
 
 
 def normal_approximation_to_binomial(n: int, p: float) -> Tuple[float, float]:
