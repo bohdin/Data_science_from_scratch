@@ -12,3 +12,4 @@ The goal is to better understand how data science tools work internally by build
 - [`Probability`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Probability.ipynb)
 - [`Hypothesis and Inference`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Hypothesis_Inference.ipynb)
 - [`Gradient descent`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Gradient_descent.ipynb)
+- [`Getting data`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Getting_data.ipynb)
