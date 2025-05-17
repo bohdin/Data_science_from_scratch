@@ -1,5 +1,5 @@
 from typing import Callable, TypeVar, List, Iterator
-from linear_algebra import Vector, add, scalar_multiply
+from .linear_algebra import Vector, add, scalar_multiply
 import matplotlib.pyplot as plt
 import random
 

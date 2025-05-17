@@ -1,6 +1,6 @@
 from collections import Counter
 from typing import List
-from linear_algebra import sum_of_squares, dot
+from .linear_algebra import sum_of_squares, dot
 import math
 
 
