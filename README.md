@@ -15,3 +15,4 @@ The goal is to better understand how data science tools work internally by build
 - [`Getting data`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Getting_data.ipynb)
 - [`Working with data`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Working_with_data.ipynb)
 - [`Machine learning`](https://github.com/bohdin/Data_science_from_scratch/blob/main/Machine_learning.ipynb)
+- [`k_Nearest_neighbors`](https://github.com/bohdin/Data_science_from_scratch/blob/main/k_nearest_neighbors.ipynb)
