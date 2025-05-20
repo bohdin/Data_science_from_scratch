@@ -1,7 +1,10 @@
 from collections import Counter
 from typing import List
-from .linear_algebra import sum_of_squares, dot
 import math
+try:
+    from .linear_algebra import sum_of_squares, dot
+except ImportError:
+    from linear_algebra import sum_of_squares, dot
 
 
 def mean(x: List[float]) -> float:

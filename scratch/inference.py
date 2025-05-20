@@ -1,6 +1,9 @@
 from typing import Tuple
 import math
-from .probability import normal_cdf, inverse_normal_cdf
+try:
+    from .probability import normal_cdf, inverse_normal_cdf
+except ImportError:
+    from probability import normal_cdf, inverse_normal_cdf
 
 
 def normal_approximation_to_binomial(n: int, p: float) -> Tuple[float, float]:

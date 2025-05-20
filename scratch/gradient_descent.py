@@ -1,7 +1,10 @@
 from typing import Callable, TypeVar, List, Iterator
-from .linear_algebra import Vector, add, scalar_multiply
 import matplotlib.pyplot as plt
 import random
+try:
+    from .linear_algebra import Vector, add, scalar_multiply
+except ImportError:
+    from linear_algebra import Vector, add, scalar_multiply
 
 T = TypeVar('T')
 
